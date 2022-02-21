@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Reading Challenge Progress](https://img.shields.io/badge/Reading%20Challenge-2%2F7-blue)](https://www.goodreads.com/challenges/11650-2021-reading-challenge)
+Almost there...
 
 <!--
 **hamza-ghufran/hamza-ghufran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
